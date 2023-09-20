@@ -1,0 +1,2039 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 19724>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (  1  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (  2  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (Mehmet Celebi) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (  3  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (0323916) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (  4  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (VLSI Circuit Systems Design) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (  5  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (C Programming Project) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (  6  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (University of Rome "Tor Vergata") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (  7  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (  8  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (  9  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr ( 10  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (/*including necessary library) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr ( 11  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (stdio.h for standard of input output library) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 12  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 13  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (#include <stdio.h>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr ( 16  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr ( 17  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (/* Structure is data type allows group together different variables) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr ( 18  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (String implementation is failed. Since char used for name.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 19  ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr ( 20  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+85.95 243.78 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 251.85 Tm 0 Tr (Course ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 251.85 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 21  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 263.19 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+95.55 255.12 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 263.19 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 263.19 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 263.19 Tm 0 Tr (100) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 263.19 Tm 0 Tr (];) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr ( 22  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 274.53 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 266.46 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (cfu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 274.53 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr ( 23  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 285.86 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 277.80 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 285.86 Tm 0 Tr (grade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 285.86 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr ( 24  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 297.20 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 289.13 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 297.20 Tm 0 Tr (withLode) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 297.20 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr ( 25  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (};) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 26  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 27  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 323.15 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 331.22 Tm 0 Tr (main) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 331.22 Tm 0 Tr (\(\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 28  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 342.56 Tm 0 Tr (// index value of loop data gathering.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 29  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 353.90 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 345.83 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (numCourses ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 353.90 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 353.90 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 353.90 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr ( 30  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr ( 31  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 376.57 Tm 0 Tr (//courses array for Course structure. This array has size of 20) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr ( 32  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 387.91 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+105.15 379.84 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 387.91 Tm 0 Tr (Course courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 387.91 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 177.15 387.91 Tm 0 Tr (20) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 387.91 Tm 0 Tr (];) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 33  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr ( 34  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 410.59 Tm 0 Tr (//defining variables will used in main) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr ( 35  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 421.93 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 413.86 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 421.93 Tm 0 Tr (totalGrade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 421.93 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 421.93 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 421.93 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 167.55 421.93 Tm 0 Tr (//total obtained Grade*CFU for each course) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr ( 36  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 433.27 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 425.20 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 433.27 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 433.27 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 143.55 433.27 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 433.27 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 157.95 433.27 Tm 0 Tr (//total obtained CFU \(credits\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr ( 37  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 444.60 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 436.54 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 444.60 Tm 0 Tr (totalLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 444.60 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 444.60 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 444.60 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 167.55 444.60 Tm 0 Tr (//total LodePoints - method explained below) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr ( 38  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 455.94 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 447.87 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 455.94 Tm 0 Tr (nineLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 455.94 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 148.35 455.94 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 455.94 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 162.75 455.94 Tm 0 Tr (//total number of courses with 9 or 12 CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr ( 39  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 467.28 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 459.21 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 467.28 Tm 0 Tr (sixLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 467.28 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 143.55 467.28 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 467.28 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 157.95 467.28 Tm 0 Tr (//total number of courses with 6 CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr ( 40  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr ( 41  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr ( 42  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 501.30 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr ( 43  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 512.64 Tm 0 Tr (While instruction used for creating loop for gathering informations) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr ( 44  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 523.97 Tm 0 Tr (we use condition 1-TRUE to create endless-loop so loop can only trigger) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr ( 45  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 535.31 Tm 0 Tr (with user input) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr ( 46  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 546.65 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr ( 47  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 557.99 Tm 0 Tr (while ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 557.99 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 105.15 557.99 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 557.99 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr ( 48  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr ( 49  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr ( 50  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 592.01 Tm 0 Tr (endless loop will count numCourses \(index of array\) each turn and gets input) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr ( 51  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 603.34 Tm 0 Tr (from user for name \(as char\), CFU, Grade and Lode status.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr ( 52  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr ( 53  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 626.02 Tm 0 Tr (First loop has exit algorithm to allow user delete current input and) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr ( 54  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 637.36 Tm 0 Tr (finish entering input.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr ( 55  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr ( 56  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 660.04 Tm 0 Tr (otherwise array will end in 21th input.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr ( 57  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 671.38 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr ( 58  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr ( 59  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 685.98 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 694.05 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 694.05 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 694.05 Tm 0 Tr ("Enter the course name: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 694.05 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 258.75 694.05 Tm 0 Tr (//printing text to terminal) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr ( 60  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 697.32 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 705.39 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 705.39 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 705.39 Tm 0 Tr (" %s") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 705.39 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 697.32 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 705.39 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 705.39 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+191.55 697.32 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 705.39 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 705.39 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+249.15 697.32 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 249.15 705.39 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 705.39 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 282.75 705.39 Tm 0 Tr (//scanning inputs of user for name.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr ( 61  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (                                                ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 282.75 716.73 Tm 0 Tr (//" %s" argument continues scanning until space " "  input) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr ( 62  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr ( 63  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 731.34 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 739.41 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 739.41 Tm 0 Tr ("Enter the CFU: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 739.41 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 220.35 739.41 Tm 0 Tr (//printing text to terminal) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr ( 64  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 742.68 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 750.75 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 750.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 750.75 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 750.75 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 742.68 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 750.75 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 750.75 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+191.55 742.68 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 750.75 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 750.75 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+249.15 742.68 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 249.15 750.75 Tm 0 Tr (cfu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 750.75 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 277.95 750.75 Tm 0 Tr (//" %d" format specifier for defining integer.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr ( 65  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr ( 66  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 773.42 Tm 0 Tr (while ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 773.42 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 773.42 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 773.42 Tm 0 Tr (\) {) Tj  ET Q
+Q
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 30066>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr ( 67  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (/* Second while loop to create another loop sequence. Since in Tor Vergata maximum score is 30) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr ( 68  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (               ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 124.35 47.75 Tm 0 Tr (and scores lower than 18 is not written to the system. If user tries to enter these values) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr ( 69  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (               ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 124.35 59.09 Tm 0 Tr (program will give output and ask user to enter again.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr ( 70  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 70.43 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr ( 71  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 73.70 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 81.77 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 81.77 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 81.77 Tm 0 Tr ("Enter the grade: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 81.77 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 249.15 81.77 Tm 0 Tr (//printing text to terminal) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ( 72  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 85.04 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 93.11 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 93.11 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 93.11 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 93.11 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 85.04 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 93.11 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 93.11 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 85.04 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 93.11 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 93.11 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 85.04 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 93.11 Tm 0 Tr (grade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 292.35 93.11 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 306.75 93.11 Tm 0 Tr (// format specifier for integers) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr ( 73  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr ( 74  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 115.79 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 107.72 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 115.79 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 115.79 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 107.72 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 115.79 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 115.79 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+225.15 107.72 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 225.15 115.79 Tm 0 Tr (grade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 115.79 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 268.35 115.79 Tm 0 Tr (18 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 115.79 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+297.15 107.72 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 297.15 115.79 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 115.79 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+335.55 107.72 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 335.55 115.79 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 383.55 115.79 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+393.15 107.72 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 393.15 115.79 Tm 0 Tr (grade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 421.95 115.79 Tm 0 Tr (<= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 436.35 115.79 Tm 0 Tr (30) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 445.95 115.79 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr ( 75  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (                ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 129.15 127.12 Tm 0 Tr (//if grade is in normal range. we break while loop to continue program.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr ( 76  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (                ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 129.15 138.46 Tm 0 Tr (break) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 138.46 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr ( 77  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 149.80 Tm 0 Tr (}  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 124.35 149.80 Tm 0 Tr (else if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 149.80 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 141.73 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 149.80 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 149.80 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+205.95 141.73 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 205.95 149.80 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 149.80 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+263.55 141.73 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 263.55 149.80 Tm 0 Tr (grade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 292.35 149.80 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 301.95 149.80 Tm 0 Tr (18) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 311.55 149.80 Tm 0 Tr (\) { ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 330.75 149.80 Tm 0 Tr (// lower than 18) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 78  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 153.07 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 161.14 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 161.14 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 161.14 Tm 0 Tr ("Not Passed \\\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 161.14 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 79  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 172.48 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 80  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 183.82 Tm 0 Tr (else ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 183.82 Tm 0 Tr ({ ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 143.55 183.82 Tm 0 Tr (// since there is no other option. we use else command to specify other errors.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 81  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 195.16 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 195.16 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 195.16 Tm 0 Tr ("Invalid grade input. Please enter a grade between 1 and 30.\\\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 469.95 195.16 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr ( 82  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 206.49 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr ( 83  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 217.83 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr ( 84  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 85  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 240.51 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 240.51 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 232.44 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 240.51 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 232.44 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 240.51 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 240.51 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+205.95 232.44 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 205.95 240.51 Tm 0 Tr (grade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 240.51 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 249.15 240.51 Tm 0 Tr (30) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 240.51 Tm 0 Tr (\) { ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 277.95 240.51 Tm 0 Tr (// e Lode is honour system if student have extraordinary) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (performance.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 86  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 263.19 Tm 0 Tr (// e Lode is given only with 30 points so we add this condition to decrease unnecessary input) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (requests.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr ( 87  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 277.80 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.86 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 285.86 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 285.86 Tm 0 Tr ("Enter 1 if with Lode \(Honour\), 0 otherwise: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 364.35 285.86 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 378.75 285.86 Tm 0 Tr (// we used integer since we will have) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (arithmetic) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr ( 88  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 300.47 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 308.54 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 308.54 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 308.54 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 308.54 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 300.47 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 308.54 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 308.54 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 300.47 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 308.54 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 308.54 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 300.47 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 308.54 Tm 0 Tr (withLode) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 306.75 308.54 Tm 0 Tr (\);             ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 378.75 308.54 Tm 0 Tr (// operation after.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 89  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 319.88 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 90  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 91  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 334.49 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 342.56 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 342.56 Tm 0 Tr (++;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 92  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (/*While loop preferred rather than for loop since counter increase and decrease instructions can be) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (given in) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr ( 93  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 376.57 Tm 0 Tr (anywhere of the code*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr ( 94  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 95  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr ( 96  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 410.59 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr ( 97  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 421.93 Tm 0 Tr (algorithm for deleting current course.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr ( 98  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 433.27 Tm 0 Tr (Resetting structure variable did not preferred since scanf instruction directly access to memory) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr ( 99  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 444.60 Tm 0 Tr (& notation in scanf retrieves memory address and directly changes data itself than having) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (100  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 455.94 Tm 0 Tr (reference from memory.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (101  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 467.28 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (102  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 478.62 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+114.75 470.55 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 478.62 Tm 0 Tr (deleteCourse) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 478.62 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (103  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 481.89 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 489.96 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 489.96 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 489.96 Tm 0 Tr ("Would you like to delete the last course added? \(y/n\): ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 397.95 489.96 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (104  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 493.23 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 501.30 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 501.30 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 501.30 Tm 0 Tr (" %c") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 501.30 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 493.23 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 501.30 Tm 0 Tr (deleteCourse) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 501.30 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 229.95 501.30 Tm 0 Tr (//%c format specifier defines character.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (105  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 512.64 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 512.64 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 504.57 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 512.64 Tm 0 Tr (deleteCourse ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 512.64 Tm 0 Tr (== ) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 186.75 512.64 Tm 0 Tr ('y' ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 512.64 Tm 0 Tr (|| ) Tj  ET Q
+1.000 1.000 1.000 rg
+220.35 504.57 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 220.35 512.64 Tm 0 Tr (deleteCourse ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 512.64 Tm 0 Tr (== ) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 297.15 512.64 Tm 0 Tr ('Y') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 311.55 512.64 Tm 0 Tr (\) { ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 330.75 512.64 Tm 0 Tr (//when user presses y or Y in keyboard) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (106  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 515.91 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 523.97 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 523.97 Tm 0 Tr (--; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 177.15 523.97 Tm 0 Tr (//index number was increased in line 90 but now it returned current phase) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (107  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 535.31 Tm 0 Tr (}                 ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 177.15 535.31 Tm 0 Tr (//in next iteration same index value will be processed) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (108  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (109  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 557.99 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (110  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 569.33 Tm 0 Tr (algorithm for exiting loop.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (111  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr (Same approach with deleting algorithm.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (112  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 592.01 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (113  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 603.34 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+114.75 595.28 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 603.34 Tm 0 Tr (moreCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 603.34 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (114  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 614.68 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 606.61 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 614.68 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 614.68 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 614.68 Tm 0 Tr ("Add another course? \(y/n\): ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 614.68 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (115  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 617.95 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 626.02 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 626.02 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 626.02 Tm 0 Tr (" %c") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 626.02 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 617.95 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 626.02 Tm 0 Tr (moreCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 626.02 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 225.15 626.02 Tm 0 Tr (// direct access to memory with &) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (116  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 637.36 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 637.36 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 629.29 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 637.36 Tm 0 Tr (moreCourses ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 637.36 Tm 0 Tr (!= ) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 181.95 637.36 Tm 0 Tr ('y' ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 637.36 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 629.29 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 637.36 Tm 0 Tr (moreCourses ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 637.36 Tm 0 Tr (!= ) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 287.55 637.36 Tm 0 Tr ('Y') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 301.95 637.36 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (117  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 648.70 Tm 0 Tr (break) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 648.70 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 143.55 648.70 Tm 0 Tr (// breaks the main loop) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (118  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 660.04 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (119  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 671.38 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (120  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (121  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 685.98 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 694.05 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 694.05 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 694.05 Tm 0 Tr ("All notes entered: \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 694.05 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (122  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (123  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 716.73 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 716.73 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 716.73 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+114.75 708.66 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 716.73 Tm 0 Tr (i ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 716.73 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 716.73 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 716.73 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 708.66 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 716.73 Tm 0 Tr (i ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 716.73 Tm 0 Tr (< ) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 708.66 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 716.73 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 716.73 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+225.15 708.66 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 225.15 716.73 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 716.73 Tm 0 Tr (++\) { ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 258.75 716.73 Tm 0 Tr (//prints all courses between 0 to last numCourses) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (124  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 728.07 Tm 0 Tr (// since we are no longer changing data of array. Direct access & is no longer needed.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (125  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 739.41 Tm 0 Tr (// We can process our values with reference from memory) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (126  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 742.68 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 750.75 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 750.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 750.75 Tm 0 Tr ("Course Name: %s     || ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 750.75 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+253.95 742.68 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 253.95 750.75 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 750.75 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+292.35 742.68 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 292.35 750.75 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 750.75 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+306.75 742.68 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 306.75 750.75 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 325.95 750.75 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (127  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 754.02 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 762.09 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 762.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 762.09 Tm 0 Tr ("CFU: %d     || ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 762.09 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 754.02 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 762.09 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 762.09 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+253.95 754.02 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 253.95 762.09 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 762.09 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 754.02 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 762.09 Tm 0 Tr (cfu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 762.09 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (128  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 765.35 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 773.42 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 773.42 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 773.42 Tm 0 Tr ("Grade: %d   || ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 773.42 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 765.35 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 773.42 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 773.42 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+253.95 765.35 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 253.95 773.42 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 773.42 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 765.35 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 773.42 Tm 0 Tr (grade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 292.35 773.42 Tm 0 Tr (\);) Tj  ET Q
+Q
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 29132>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (129  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (130  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 47.75 Tm 0 Tr (// only prints Lode if grade is 30 to avoid lost data and clearer terminal) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (131  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 59.09 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 59.09 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 51.02 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 59.09 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 59.09 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 51.02 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 59.09 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 59.09 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+162.75 51.02 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 59.09 Tm 0 Tr (grade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 59.09 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 205.95 59.09 Tm 0 Tr (30) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 59.09 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (132  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 62.36 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 70.43 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 70.43 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 70.43 Tm 0 Tr ("With Lode: %s ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 70.43 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 62.36 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 70.43 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 70.43 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 62.36 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 70.43 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 70.43 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+282.75 62.36 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 282.75 70.43 Tm 0 Tr (withLode ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 325.95 70.43 Tm 0 Tr (? ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 335.55 70.43 Tm 0 Tr ("e Lode" ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 378.75 70.43 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 388.35 70.43 Tm 0 Tr (" ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 402.75 70.43 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (133  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 81.77 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (134  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (135  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 104.45 Tm 0 Tr (//summing CFU and total weighted grade of each course) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (136  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 107.72 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 115.79 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 115.79 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 107.72 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 115.79 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 115.79 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+196.35 107.72 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 115.79 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 115.79 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+234.75 107.72 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 234.75 115.79 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 115.79 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+249.15 107.72 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 249.15 115.79 Tm 0 Tr (cfu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 115.79 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (137  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 119.06 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 127.12 Tm 0 Tr (totalGrade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 127.12 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 119.06 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 127.12 Tm 0 Tr (totalGrade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 127.12 Tm 0 Tr (+ \() Tj  ET Q
+1.000 1.000 1.000 rg
+220.35 119.06 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 220.35 127.12 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 127.12 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+258.75 119.06 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 258.75 127.12 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 127.12 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 119.06 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 127.12 Tm 0 Tr (cfu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 127.12 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+292.35 119.06 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 292.35 127.12 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 325.95 127.12 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+330.75 119.06 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 330.75 127.12 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 335.55 127.12 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+345.15 119.06 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 345.15 127.12 Tm 0 Tr (grade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 369.15 127.12 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (138  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (139  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 141.73 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 149.80 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 149.80 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 149.80 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 149.80 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 157.95 149.80 Tm 0 Tr (//prints new line) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (140  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (141  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 172.48 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (142  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 183.82 Tm 0 Tr (//we use float since weighted grade can be decimal.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (143  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (144  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 206.49 Tm 0 Tr (// Weighted Grade = Sum of \(grade*CFU of each class\) / total CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (145  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 217.83 Tm 0 Tr (float ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+100.35 209.76 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 217.83 Tm 0 Tr (weightedGrade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 217.83 Tm 0 Tr (= \() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 181.95 217.83 Tm 0 Tr (float) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 217.83 Tm 0 Tr (\)) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 209.76 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 217.83 Tm 0 Tr (totalGrade ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 217.83 Tm 0 Tr (/ ) Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 209.76 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 217.83 Tm 0 Tr (totalCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 311.55 217.83 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 321.15 217.83 Tm 0 Tr (// converts grade to float since it is integer) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (146  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 221.10 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 229.17 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 229.17 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 229.17 Tm 0 Tr ("Weighted Grade: %.4f \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 229.17 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+234.75 221.10 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 234.75 229.17 Tm 0 Tr (weightedGrade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 229.17 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 311.55 229.17 Tm 0 Tr (//%.2f prints float as .XX format) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (147  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (148  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 251.85 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (149  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 263.19 Tm 0 Tr (Tor Vergata Mechatronics Engineering Department gives 2 extra point for graduation score for following) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (criteria) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (150  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 285.86 Tm 0 Tr (1 point for one 9 CFU OR 12 CFU.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (151  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 297.20 Tm 0 Tr (1 point for two 6 CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (152  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 308.54 Tm 0 Tr (Each point can be obtained once to total two point maximum.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (153  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 319.88 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (154  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (155  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 342.56 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 342.56 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 342.56 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+114.75 334.49 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 342.56 Tm 0 Tr (i ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 342.56 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 342.56 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 342.56 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 334.49 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 342.56 Tm 0 Tr (i ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 342.56 Tm 0 Tr (< ) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 334.49 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 342.56 Tm 0 Tr (numCourses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 342.56 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+225.15 334.49 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 225.15 342.56 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 342.56 Tm 0 Tr (++\) { ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 258.75 342.56 Tm 0 Tr (//runs each cell of array until final one) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (156  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 353.90 Tm 0 Tr (\(\() Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 345.83 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 353.90 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 353.90 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 345.83 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 353.90 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 353.90 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 345.83 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 353.90 Tm 0 Tr (cfu ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 353.90 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 353.90 Tm 0 Tr (9 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 353.90 Tm 0 Tr (|| ) Tj  ET Q
+1.000 1.000 1.000 rg
+225.15 345.83 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 225.15 353.90 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 353.90 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+263.55 345.83 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 263.55 353.90 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 353.90 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+277.95 345.83 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 277.95 353.90 Tm 0 Tr (cfu ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 353.90 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 311.55 353.90 Tm 0 Tr (12) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 321.15 353.90 Tm 0 Tr (\) && ) Tj  ET Q
+1.000 1.000 1.000 rg
+345.15 345.83 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 345.15 353.90 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 378.75 353.90 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+383.55 345.83 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 383.55 353.90 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 388.35 353.90 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+397.95 345.83 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 397.95 353.90 Tm 0 Tr (withLode ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 441.15 353.90 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 455.55 353.90 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 460.35 353.90 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (157  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 365.23 Tm 0 Tr (// searches for credits 9 OR \(||\) 12 CFU with withLode argument 1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (158  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 368.50 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 376.57 Tm 0 Tr (nineLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 376.57 Tm 0 Tr (++; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 172.35 376.57 Tm 0 Tr (//counts each time condition success) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (159  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 387.91 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 387.91 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 379.84 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 387.91 Tm 0 Tr (nineLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 387.91 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 191.55 387.91 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 387.91 Tm 0 Tr (\){ ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 210.75 387.91 Tm 0 Tr (// catches 1st Lode possible) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (160  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 391.18 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 399.25 Tm 0 Tr (totalLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 399.25 Tm 0 Tr (++; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 196.35 399.25 Tm 0 Tr (// increases total lode 1. We use increasing count rather than assign since) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (we use this argument below also) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (161  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 421.93 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (162  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 433.27 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (163  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 444.60 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 444.60 Tm 0 Tr (\(\() Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 436.54 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 444.60 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 444.60 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 436.54 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 444.60 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 444.60 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 436.54 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 444.60 Tm 0 Tr (cfu ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 444.60 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 444.60 Tm 0 Tr (6) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 444.60 Tm 0 Tr (\) && ) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 436.54 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 444.60 Tm 0 Tr (courses) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 444.60 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 436.54 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 444.60 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 444.60 Tm 0 Tr (].) Tj  ET Q
+1.000 1.000 1.000 rg
+282.75 436.54 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 282.75 444.60 Tm 0 Tr (withLode ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 325.95 444.60 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 340.35 444.60 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 345.15 444.60 Tm 0 Tr (\) {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (164  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 455.94 Tm 0 Tr (// searches for credits with 6 CFU with withLode argument 1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (165  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 459.21 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 467.28 Tm 0 Tr (sixLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 467.28 Tm 0 Tr (++;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (166  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 478.62 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 478.62 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 470.55 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 478.62 Tm 0 Tr (sixLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 478.62 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 186.75 478.62 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 478.62 Tm 0 Tr (\){) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 201.15 478.62 Tm 0 Tr (// condition is TWO 6 CFU with lode.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (167  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 481.89 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 489.96 Tm 0 Tr (totalLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 489.96 Tm 0 Tr (++; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 196.35 489.96 Tm 0 Tr (// increases total lode 1. so if there is also 9 CFU Lode. total will be) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (maximum 2) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (168  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 512.64 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (169  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 523.97 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (170  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 535.31 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (171  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (172  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 557.99 Tm 0 Tr (// argument for calculating how much CFU is needed to graduate) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (173  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 569.33 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 561.26 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 569.33 Tm 0 Tr (neededCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 569.33 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 148.35 569.33 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 569.33 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (174  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 580.67 Tm 0 Tr (//Total CFU of Mechatronics is 120. Subtracting taken CFU's gives us required CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (175  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 583.94 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 592.01 Tm 0 Tr (neededCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 592.01 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 129.15 592.01 Tm 0 Tr (120 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 592.01 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 583.94 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 592.01 Tm 0 Tr (totalCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 592.01 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (176  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (177  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 614.68 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 614.68 Tm 0 Tr (//We dont use 120 but we use 108 since 12 credits is thesis and will considered later simulation.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (178  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 626.02 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 626.02 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 617.95 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 626.02 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 626.02 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 143.55 626.02 Tm 0 Tr (108) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 626.02 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (179  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (180  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 648.70 Tm 0 Tr (// states required CFU to graduate.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (181  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 651.97 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 660.04 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 660.04 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 660.04 Tm 0 Tr ("%d CFU needed for graduation \\n ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 660.04 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+297.15 651.97 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 297.15 660.04 Tm 0 Tr (neededCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 340.35 660.04 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (182  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (183  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 682.71 Tm 0 Tr (// returns total Lode bonus.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (184  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 685.98 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 694.05 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 694.05 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 694.05 Tm 0 Tr ("\\nYou have %d extra bonus for Lode \\n ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 694.05 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+325.95 685.98 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 325.95 694.05 Tm 0 Tr (totalLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 373.95 694.05 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (185  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (186  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 716.73 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (187  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (188  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 739.41 Tm 0 Tr (/* 108 is maximum CFU can be taken before Thesis since thesis is 12 CFU.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (189  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (       ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 85.95 750.75 Tm 0 Tr (when totalCFU is 108 this means that user eligible to graduate after giving) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (190  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (       ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 85.95 762.09 Tm 0 Tr (Thesis. This sequence of algorithm calculates extra points of graduation with) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (191  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (       ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 85.95 773.42 Tm 0 Tr (thesis points to output graduation score, possible Cum Laude status.) Tj  ET Q
+Q
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 24172>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (192  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (193  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (       ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 85.95 47.75 Tm 0 Tr (If thesis is not given yet program gives output of required thesis note to:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (194  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (       ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 85.95 59.09 Tm 0 Tr (graduate or if its possible; obtain Cum Laude.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (195  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (    ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 71.55 70.43 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (196  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 81.77 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 81.77 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 73.70 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 81.77 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 81.77 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 148.35 81.77 Tm 0 Tr (108) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 81.77 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (197  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 85.04 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 93.11 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 93.11 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 93.11 Tm 0 Tr ("You completed all CFU can be obtained from exams. System will continue with thesis) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (calculation to obtain your Graduation Grade. ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 104.45 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (198  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (199  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 127.12 Tm 0 Tr (//graduation score with bonuses included) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (200  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 138.46 Tm 0 Tr (float ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+119.55 130.39 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 138.46 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 138.46 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 138.46 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 138.46 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (201  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (202  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 161.14 Tm 0 Tr (//final weighted average with thesis score included) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (203  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 172.48 Tm 0 Tr (float ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+119.55 164.41 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 172.48 Tm 0 Tr (finalAVG ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 172.48 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 172.35 172.48 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 172.48 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (204  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (205  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 195.16 Tm 0 Tr (//status of student if is in normal study year. we didnt use boolean since it has 1 point value) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (already.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (206  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 217.83 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 209.76 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 217.83 Tm 0 Tr (intime ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 217.83 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 217.83 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 217.83 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (207  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (208  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 240.51 Tm 0 Tr (//thesis score out of 7) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (209  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 251.85 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 243.78 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 251.85 Tm 0 Tr (thesis ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 251.85 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 251.85 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 251.85 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (210  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (211  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (// constant thesis CFU is 12.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (212  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 285.86 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 277.80 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.86 Tm 0 Tr (thesisCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 285.86 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 285.86 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 285.86 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (213  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (214  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 300.47 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 308.54 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 308.54 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 308.54 Tm 0 Tr ("\\n --------------------------------------- \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 349.95 308.54 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 364.35 308.54 Tm 0 Tr (//d ivider) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (215  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (216  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 323.15 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 331.22 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 331.22 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 331.22 Tm 0 Tr ("Student graduated in time?: \(1 for yes, 0 for no\)") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 369.15 331.22 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (217  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 334.49 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 342.56 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 342.56 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 342.56 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 342.56 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 334.49 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 342.56 Tm 0 Tr (intime) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 342.56 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 196.35 342.56 Tm 0 Tr (// memory access to asset point of 0-1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (218  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (219  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 357.17 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 365.23 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 365.23 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 365.23 Tm 0 Tr ("Write score of Thesis: \(out of 7. if not presented input 0\) ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 421.95 365.23 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (220  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 368.50 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 376.57 Tm 0 Tr (scanf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 376.57 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 376.57 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 368.50 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 376.57 Tm 0 Tr (thesis) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 376.57 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (221  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 387.91 Tm 0 Tr (// Lode bonus) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (222  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 391.18 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 399.25 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 399.25 Tm 0 Tr ("you have total Lode Bonus: %d \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 399.25 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+297.15 391.18 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 297.15 399.25 Tm 0 Tr (totalLodes) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 345.15 399.25 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (223  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (224  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 421.93 Tm 0 Tr (/* this condition is for thesis is not 0 means it presented successfully.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (225  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 433.27 Tm 0 Tr (for this reason thesis CFU will be 12 since this CFU is obtained.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (226  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 444.60 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (227  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 455.94 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 455.94 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 447.87 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 455.94 Tm 0 Tr (thesis ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 455.94 Tm 0 Tr (!= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 157.95 455.94 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 455.94 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (228  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 459.21 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 467.28 Tm 0 Tr (thesisCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 467.28 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 467.28 Tm 0 Tr (12) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 467.28 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 186.75 467.28 Tm 0 Tr (//thesis CFU is 12. We dont want to directly change memory data since we will) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (use it in other conditions.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (229  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (230  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 501.30 Tm 0 Tr (//Final Average = Weighted Average*TotalCFU \(108\) + thesis \(7 point\) * 30/7 \(conversion to) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (30\)*thesisCFU / 120 CFU) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (231  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 515.91 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 523.97 Tm 0 Tr (finalAVG ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 523.97 Tm 0 Tr (= \(\() Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 515.91 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 523.97 Tm 0 Tr (weightedGrade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 523.97 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+239.55 515.91 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 239.55 523.97 Tm 0 Tr (totalCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 277.95 523.97 Tm 0 Tr (\) + \() Tj  ET Q
+1.000 1.000 1.000 rg
+301.95 515.91 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 301.95 523.97 Tm 0 Tr (thesis) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 523.97 Tm 0 Tr (*) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 335.55 523.97 Tm 0 Tr (30) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 345.15 523.97 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+349.95 515.91 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 349.95 523.97 Tm 0 Tr (thesisCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 393.15 523.97 Tm 0 Tr (/) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 397.95 523.97 Tm 0 Tr (7) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 402.75 523.97 Tm 0 Tr (\)\) / \() Tj  ET Q
+1.000 1.000 1.000 rg
+431.55 515.91 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 431.55 523.97 Tm 0 Tr (totalCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 474.75 523.97 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+484.35 515.91 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 484.35 523.97 Tm 0 Tr (thesisCFU) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 527.55 523.97 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (232  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 527.24 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 535.31 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 535.31 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 535.31 Tm 0 Tr ("Your final weighted average with thesis, excluding bonuses: %.2f  \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 479.55 535.31 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+489.15 527.24 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 489.15 535.31 Tm 0 Tr (finalAVG) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 527.55 535.31 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 541.95 535.31 Tm 0 Tr (//) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (.XX format float) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (233  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 557.99 Tm 0 Tr (// we use float because float uses 4 bytes of memory, double uses 8 byte of memory) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (234  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (235  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (236  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 592.01 Tm 0 Tr (//Graduation Score: WeightedAverage * 110/30 \(conversion to 110\) + Lode Bonus \(2 max\) +) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (Graduated in 2 year \(1 point\) + thesis \(7 max\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (237  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 614.68 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 606.61 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 614.68 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 614.68 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 606.61 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 614.68 Tm 0 Tr (finalAVG) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 614.68 Tm 0 Tr (*) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 614.68 Tm 0 Tr (110) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 614.68 Tm 0 Tr (/) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 220.35 614.68 Tm 0 Tr (30 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 614.68 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 606.61 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 614.68 Tm 0 Tr (totalLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 614.68 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+306.75 606.61 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 306.75 614.68 Tm 0 Tr (intime ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 340.35 614.68 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+349.95 606.61 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 349.95 614.68 Tm 0 Tr (thesis) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 378.75 614.68 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (238  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 617.95 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 626.02 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 626.02 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 626.02 Tm 0 Tr ("Your final score with thesis, included bonuses: %.2f  \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 436.35 626.02 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+445.95 617.95 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 445.95 626.02 Tm 0 Tr (GradAvg) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 479.55 626.02 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (239  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (240  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (241  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 660.04 Tm 0 Tr (/* gives status of Cum Laude with graduation score.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (242  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (               ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 124.35 671.38 Tm 0 Tr (In Mechatronics 110+ rewards as Cum Laude) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (243  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (               ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 124.35 682.71 Tm 0 Tr (If student gets 104 or higher Board can give a Cum Laude to student) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (244  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (               ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 124.35 694.05 Tm 0 Tr (If score is lower than 66 student cannot graduate with that Score) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (245  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 705.39 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (246  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (247  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 728.07 Tm 0 Tr (// Score between 104 and 109) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (248  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 739.41 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 739.41 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 731.34 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 739.41 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 739.41 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 177.15 739.41 Tm 0 Tr (110 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 739.41 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 731.34 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 739.41 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 739.41 Tm 0 Tr (> ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 258.75 739.41 Tm 0 Tr (103) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 739.41 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (249  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 742.68 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 750.75 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 750.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 750.75 Tm 0 Tr ("You are eligible to graduate with Cum Laude by Board decision.\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 479.55 750.75 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (250  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 754.02 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 762.09 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 762.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 762.09 Tm 0 Tr ("Grade points higher than 104 MAY given Cum Laude with decision of Board.\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 527.55 762.09 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (251  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 773.42 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 26018>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (252  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (// Score higher than or equal to 110) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (253  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 47.75 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 47.75 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 39.69 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 47.75 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 47.75 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 47.75 Tm 0 Tr (110) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 47.75 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (254  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 51.02 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 59.09 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 59.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 59.09 Tm 0 Tr ("You are eligible to graduate with Cum Laude\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 388.35 59.09 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (255  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 70.43 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (256  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (257  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 93.11 Tm 0 Tr (// minimum grade for graduation is 66) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (258  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 104.45 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 104.45 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 96.38 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 104.45 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 104.45 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 104.45 Tm 0 Tr (66 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 104.45 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 96.38 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 104.45 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 104.45 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 258.75 104.45 Tm 0 Tr (104) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 104.45 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (259  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 107.72 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 115.79 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 115.79 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 115.79 Tm 0 Tr ("You are eligible to graduate\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 115.79 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (260  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 127.12 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (261  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (262  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 149.80 Tm 0 Tr (// Score lower than 66) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (263  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 161.14 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 161.14 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 153.07 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 161.14 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 161.14 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 177.15 161.14 Tm 0 Tr (66) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 161.14 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (264  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 164.41 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 172.48 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 172.48 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 172.48 Tm 0 Tr ("You are not eligible to graduate\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 335.55 172.48 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (265  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 183.82 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (266  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (267  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 206.49 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (268  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 217.83 Tm 0 Tr (/* this condition is for thesis is 0 means it will present in future.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (269  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 229.17 Tm 0 Tr (for this reason thesis CFU will be 0 since not obtained.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (270  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (this section calculates approximate thesis score needed to get different statuses) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (271  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (        ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 90.75 251.85 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (272  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 263.19 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 263.19 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 255.12 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 263.19 Tm 0 Tr (thesis ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 263.19 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 157.95 263.19 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 263.19 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (273  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 274.53 Tm 0 Tr (// thesis CFU set to 0) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (274  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 277.80 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.86 Tm 0 Tr (thesisCFU ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 285.86 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 285.86 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 285.86 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (275  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 297.20 Tm 0 Tr (// final average is not changed.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (276  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 300.47 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 308.54 Tm 0 Tr (finalAVG ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 308.54 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+162.75 300.47 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 308.54 Tm 0 Tr (weightedGrade) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 308.54 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (277  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (278  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 331.22 Tm 0 Tr (//Graduation Score: WeightedAverage * 110/30 \(conversion to 110\) + Lode Bonus \(2 max\) +) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (Graduated in 2 year \(1 point\) + thesis \(7 max\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (279  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 353.90 Tm 0 Tr (//thesis is not included since thesis score is 0.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (280  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 357.17 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 365.23 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 365.23 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 357.17 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 365.23 Tm 0 Tr (finalAVG) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 365.23 Tm 0 Tr (*) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 365.23 Tm 0 Tr (110) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 365.23 Tm 0 Tr (/) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 220.35 365.23 Tm 0 Tr (30 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 365.23 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 357.17 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 365.23 Tm 0 Tr (totalLodes ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 365.23 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+306.75 357.17 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 306.75 365.23 Tm 0 Tr (intime ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 340.35 365.23 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+349.95 357.17 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 349.95 365.23 Tm 0 Tr (thesis) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 378.75 365.23 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (281  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (282  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 387.91 Tm 0 Tr (// gives warning to the requirement of thesis and prints current graduation mark.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (283  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 391.18 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 399.25 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 399.25 Tm 0 Tr ("You need to finish your thesis to graduate. Your graduation mark without thesis: %.2f ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 42.75 410.59 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+52.35 402.52 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (GradAvg) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 410.59 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (284  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 413.86 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 421.93 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 421.93 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 421.93 Tm 0 Tr ("\\n --------------------------------------- \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 383.55 421.93 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 397.95 421.93 Tm 0 Tr (//divider) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (285  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (286  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 444.60 Tm 0 Tr (// Score between 103 and 97 have possibility to reach or surpass 104 threshold for Board) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (decision) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (287  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 467.28 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 467.28 Tm 0 Tr (\( ) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 459.21 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 467.28 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 467.28 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 467.28 Tm 0 Tr (104 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 467.28 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 459.21 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 467.28 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 467.28 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 268.35 467.28 Tm 0 Tr (97) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 277.95 467.28 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (288  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 470.55 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 478.62 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 478.62 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 478.62 Tm 0 Tr ("In order to graduate with Cum Laude by board decison you need minimum: %.2f thesis) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (score \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 489.96 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 95.55 489.96 Tm 0 Tr (104 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 489.96 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 481.89 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 489.96 Tm 0 Tr (GradAvg) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 489.96 Tm 0 Tr (\); ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 172.35 489.96 Tm 0 Tr (//this gives minimum thesis score needs to be obtained) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (289  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 493.23 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 501.30 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 501.30 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 501.30 Tm 0 Tr ("Grade points higher than or equal to 104 MAY given Cum Laude with decision of) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (Board.\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 512.64 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (290  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 523.97 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (291  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (292  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 546.65 Tm 0 Tr (// Score between 109 and 103 since thesis score can be maximum 7.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (293  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 557.99 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 557.99 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 129.15 557.99 Tm 0 Tr (110 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 557.99 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 549.92 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 557.99 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 557.99 Tm 0 Tr (<= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 210.75 557.99 Tm 0 Tr (7 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 557.99 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+234.75 549.92 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 234.75 557.99 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 557.99 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 282.75 557.99 Tm 0 Tr (110) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 297.15 557.99 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (294  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 561.26 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 569.33 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 569.33 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 569.33 Tm 0 Tr ("In order to graduate with Cum Laude with 110+ marking you need minimum: %.2f thesis) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (score \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 580.67 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 95.55 580.67 Tm 0 Tr (110 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 580.67 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 572.60 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 580.67 Tm 0 Tr (GradAvg) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 580.67 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (295  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 583.94 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 592.01 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 592.01 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 592.01 Tm 0 Tr ("Grade points higher than or equal to 104 MAY given Cum Laude with decision of) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (Board.\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 603.34 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (296  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (297  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 626.02 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (298  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 637.36 Tm 0 Tr (// Score between 59 and 65 since these scores are only scores can thesis surpass.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (299  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 648.70 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 648.70 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 640.63 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 648.70 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 648.70 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 648.70 Tm 0 Tr (59 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 648.70 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 640.63 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 648.70 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 648.70 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 258.75 648.70 Tm 0 Tr (66) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 648.70 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (300  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 651.97 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 660.04 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 660.04 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 660.04 Tm 0 Tr ("In order to graduate you need minimum: %.2f thesis score \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 469.95 660.04 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 479.55 660.04 Tm 0 Tr (66 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 493.95 660.04 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+503.55 651.97 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 503.55 660.04 Tm 0 Tr (GradAvg) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 537.15 660.04 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (301  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (302  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 682.71 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (303  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (304  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 705.39 Tm 0 Tr (// Scores between 66 to 96 which has zero possibility to reach 104) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (305  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 716.73 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 716.73 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 708.66 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 716.73 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 716.73 Tm 0 Tr (>= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 716.73 Tm 0 Tr (66 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 716.73 Tm 0 Tr (&& ) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 708.66 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 716.73 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 716.73 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 258.75 716.73 Tm 0 Tr (97) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 716.73 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (306  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 720.00 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 728.07 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 728.07 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 728.07 Tm 0 Tr ("you are eligible to graduate. \\nNo possibility of Cum Laude detected regarding your) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (grade.\\nMinimum 104 required for Cum Laude.\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 739.41 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (307  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 742.68 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 750.75 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 750.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 750.75 Tm 0 Tr ("maximum score you can get: %.2f  \\n \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 354.75 750.75 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+364.35 742.68 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 364.35 750.75 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 402.75 750.75 Tm 0 Tr (+ ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 412.35 750.75 Tm 0 Tr (7) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 417.15 750.75 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (308  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (309  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 773.42 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 2922>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (310  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (            ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (// scores which have zero possibility to pass 66 limit) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (311  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 47.75 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 47.75 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 39.69 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 47.75 Tm 0 Tr (GradAvg ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 47.75 Tm 0 Tr (< ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 172.35 47.75 Tm 0 Tr (59) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 47.75 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (312  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (                ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 51.02 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 59.09 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 59.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 59.09 Tm 0 Tr ("you are not eligible to graduate.") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 59.09 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (313  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (314  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (            ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 81.77 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (315  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 93.11 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (316  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 104.45 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (317  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 115.79 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 105.15 115.79 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (; ) Tj  ET Q
+q 0.596 0.596 0.851 rg BT 1 0 0 -1 119.55 115.79 Tm 0 Tr (// program terminated normally.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (318  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R ]
+/Count 6
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+15 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+16 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 15 0 R
+/F1 16 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+17 0 obj
+<<
+/Names []
+>>
+endobj
+18 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 8)
+/CreationDate (D:20230920044345)
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000132890 00000 n 
+0000133206 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000019873 00000 n 
+0000019962 00000 n 
+0000050079 00000 n 
+0000050168 00000 n 
+0000079351 00000 n 
+0000079441 00000 n 
+0000103665 00000 n 
+0000103756 00000 n 
+0000129826 00000 n 
+0000129917 00000 n 
+0000133011 00000 n 
+0000133111 00000 n 
+0000133322 00000 n 
+0000133354 00000 n 
+0000133462 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+>>
+startxref
+133566
+%%EOF
