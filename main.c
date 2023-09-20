@@ -44,7 +44,7 @@ int main() {
     we use condition 1-TRUE to create endless-loop so loop can only trigger
     with user input
     */
-    while (0) {
+    while (1) {
 
         /*
         endless loop will count numCourses (index of array) each turn and gets input
